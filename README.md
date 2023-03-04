@@ -45,7 +45,7 @@ A few of the things you can do with GithubCrypt:
 
      1. User can post their project issues and get it solved by other developers.
      2. Once the issue is posted it will be visible to all the developers.
-    3. Developers can choose the issue they want to work on and request to work on it by clicking on the "Request" button.
+     3. Developers can choose the issue they want to work on and request to work on it by clicking on the "Request" button.
     4. Once the request is sent the issue will be visible in the trying issues section of the user's profile.
     5. Once requested, the user can start working on the issue. After successfully solving the issue the user can create a pull request.
     6. Once the pull request is merged by the project owner, the user have to claim the reward by submitting the pull request number and marking the issue as completed.
